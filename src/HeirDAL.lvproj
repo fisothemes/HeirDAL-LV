@@ -27,8 +27,7 @@
 		<Item Name="Playground" Type="Folder">
 			<Item Name="Play.vi" Type="VI" URL="../Playground/Play.vi"/>
 		</Item>
-		<Item Name="Database.lvlib" Type="Library" URL="../Database Library/Database.lvlib"/>
-		<Item Name="HierDAL.lvclass" Type="LVClass" URL="../HierDAL Class/HierDAL.lvclass"/>
+		<Item Name="HierDAL Library.lvlib" Type="Library" URL="../HeirDAL Library/HierDAL Library.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
