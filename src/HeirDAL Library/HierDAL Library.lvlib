@@ -4,12 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Friends List" Type="Friends List">
 		<Item Name="HierDAL Library.lvlib:Models.lvlib" Type="Friended Library" URL="../Models Library/Models.lvlib"/>
 		<Item Name="HierDAL Library.lvlib:Database.lvlib" Type="Friended Library" URL="../Database Library/Database.lvlib"/>
 		<Item Name="HierDAL Library.lvlib:HierDAL.lvclass" Type="Friended Library" URL="../HierDAL Class/HierDAL.lvclass"/>
 	</Item>
-	<Item Name="Database.lvlib" Type="Library" URL="../Database Library/Database.lvlib"/>
 	<Item Name="HierDAL.lvclass" Type="LVClass" URL="../HierDAL Class/HierDAL.lvclass"/>
+	<Item Name="Database.lvlib" Type="Library" URL="../Database Library/Database.lvlib"/>
 	<Item Name="Models.lvlib" Type="Library" URL="../Models Library/Models.lvlib"/>
 </Library>

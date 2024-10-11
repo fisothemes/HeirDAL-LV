@@ -6,6 +6,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="Object Type.ctl" Type="VI" URL="../Controls/Object Type.ctl"/>
+	</Item>
 	<Item Name="Attribute.lvclass" Type="LVClass" URL="../Attribute Class/Attribute.lvclass"/>
 	<Item Name="Dataset.lvclass" Type="LVClass" URL="../Dataset Class/Dataset.lvclass"/>
 	<Item Name="Group.lvclass" Type="LVClass" URL="../Group Class/Group.lvclass"/>
