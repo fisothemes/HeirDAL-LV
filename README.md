@@ -33,10 +33,12 @@ HierDAL-LV/
 │   └── HierDAL Class/
 │       └── Database Library/
 │           ├── Database Manager Class/
+│           ├── Sqlite Database Manager Class/
 │           └── Repositories Library/
 │               ├── Objects Class/
 │               ├── Attributes Class/
-│               └── Dataset Columns Class/
+│               ├── Parent Child Class/
+│               └── Dataset Class/
 ├── tests/
 ├── samples/
 ├── docs/

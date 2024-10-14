@@ -7,6 +7,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Attributes.lvclass" Type="LVClass" URL="../Attributes Class/Attributes.lvclass"/>
-	<Item Name="Dataset Columns.lvclass" Type="LVClass" URL="../Dataset Columns Class/Dataset Columns.lvclass"/>
+	<Item Name="Dataset.lvclass" Type="LVClass" URL="../Dataset Class/Dataset.lvclass"/>
 	<Item Name="Objects.lvclass" Type="LVClass" URL="../Objects Class/Objects.lvclass"/>
+	<Item Name="Parent Child.lvclass" Type="LVClass" URL="../Parent Child Class/Parent Child.lvclass"/>
 </Library>

@@ -6,6 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Database Manager.lvclass" Type="LVClass" URL="../Database Manager Class/Database Manager.lvclass"/>
+	<Item Name="Sqlite Database Manager.lvclass" Type="LVClass" URL="../Sqlite Database Manager/Sqlite Database Manager.lvclass"/>
 	<Item Name="Repositories.lvlib" Type="Library" URL="../Repositories Library/Repositories.lvlib"/>
 </Library>
