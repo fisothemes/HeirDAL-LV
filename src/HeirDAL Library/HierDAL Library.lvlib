@@ -10,6 +10,9 @@
 		<Item Name="HierDAL Library.lvlib:Database.lvlib" Type="Friended Library" URL="../Database Library/Database.lvlib"/>
 		<Item Name="HierDAL Library.lvlib:HierDAL.lvclass" Type="Friended Library" URL="../HierDAL Class/HierDAL.lvclass"/>
 	</Item>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="Datatype.ctl" Type="VI" URL="../Controls/Datatype.ctl"/>
+	</Item>
 	<Item Name="HierDAL.lvclass" Type="LVClass" URL="../HierDAL Class/HierDAL.lvclass"/>
 	<Item Name="Database.lvlib" Type="Library" URL="../Database Library/Database.lvlib"/>
 	<Item Name="Models.lvlib" Type="Library" URL="../Models Library/Models.lvlib"/>
