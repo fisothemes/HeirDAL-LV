@@ -14,4 +14,5 @@
 	<Item Name="Database.lvlib" Type="Library" URL="../Database Library/Database.lvlib"/>
 	<Item Name="Models.lvlib" Type="Library" URL="../Models Library/Models.lvlib"/>
 	<Item Name="Common.lvlib" Type="Library" URL="../Common Library/Common.lvlib"/>
+	<Item Name="Services.lvlib" Type="Library" URL="../Services Library/Services.lvlib"/>
 </Library>
