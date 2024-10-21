@@ -96,7 +96,17 @@ This abstract class enables the HierDAL-LV library to interact with different da
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
 	<Item Name="Execute.vi" Type="VI" URL="../VIs/Execute.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;Z!=!!?!!!`&amp;5BJ:8*%15QA4'FC=G&amp;S?3ZM&gt;GRJ9AZ%982B9G&amp;T:3ZM&gt;GRJ9BB%982B9G&amp;T:3".97ZB:W6S,GRW9WRB=X-!&amp;%2B&gt;'&amp;C98.F)%VB&lt;G&amp;H:8)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*5'&amp;S97VF&gt;'6S!!J!5Q6797RV:1!71(1!!A!(!!A+5'&amp;S97VF&gt;'6S=Q!!$E!Q`````Q62&gt;76S?1"=1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!".%982B9G&amp;T:3".97ZB:W6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!E!#A!,!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!B!!!!#1!!!!!!%!$!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(3!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'U!$!"6/&lt;SYA&lt;W9A5G^X=S"":G:F9X2F:#!!"!!!!&amp;Z!=!!?!!!`&amp;5BJ:8*%15QA4'FC=G&amp;S?3ZM&gt;GRJ9AZ%982B9G&amp;T:3ZM&gt;GRJ9BB%982B9G&amp;T:3".97ZB:W6S,GRW9WRB=X-!&amp;%2B&gt;'&amp;C98.F)%VB&lt;G&amp;H:8)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*5'&amp;S97VF&gt;'6S!!J!5Q6797RV:1!71(1!!A!)!!E+5'&amp;S97VF&gt;'6S=Q!!$E!Q`````Q62&gt;76S?1"=1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!".%982B9G&amp;T:3".97ZB:W6S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!I!#Q!-!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!B!!!!#1!!!!!!%!$1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+	</Item>
+	<Item Name="Map Type.vi" Type="VI" URL="../VIs/Map Type.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'6!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QN.98"Q:71A6(FQ:1!%!!!!8E"Q!"Y!!$]63'FF=E2"4#"-;7*S98*Z,GRW&lt;'FC$E2B&gt;'&amp;C98.F,GRW&lt;'FC'%2B&gt;'&amp;C98.F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!52'&amp;U97*B=W5A47&amp;O97&gt;F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#E"4"&amp;2Z='5!!&amp;R!=!!?!!!`&amp;5BJ:8*%15QA4'FC=G&amp;S?3ZM&gt;GRJ9AZ%982B9G&amp;T:3ZM&gt;GRJ9BB%982B9G&amp;T:3".97ZB:W6S,GRW9WRB=X-!%U2B&gt;'&amp;C98.F)%VB&lt;G&amp;H:8)A;7Y!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!"1!)!!E#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!*!!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -114,6 +124,16 @@ This abstract class enables the HierDAL-LV library to interact with different da
 		<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+	</Item>
+	<Item Name="Ordered Query.vi" Type="VI" URL="../VIs/Ordered Query.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(H!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:$&lt;WRV&lt;7Y!!!J!5Q6797RV:1!+!&amp;!!!A!%!!5!&amp;E"!!!,``````````Q!'"&amp;*P&gt;X-!!!1!!!"?1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!"2%982B9G&amp;T:3".97ZB:W6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#6"B=G&amp;N:82F=A!71(1!!A!,!!5+5'&amp;S97VF&gt;'6S=Q!!$E!Q`````Q62&gt;76S?1"=1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!".%982B9G&amp;T:3".97ZB:W6S)'FO!&amp;1!]!!-!!-!"Q!)!!E!#!!)!!A!#!!+!!Q!$1!/!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!B!!!!#1!!!!!!%!$Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="Query.vi" Type="VI" URL="../VIs/Query.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(H!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:$&lt;WRV&lt;7Y!!!J!5Q6797RV:1!/1(1!!A!%!!5$5G^X!"*!1!!"`````Q!'"&amp;*P&gt;X-!!!1!!!"?1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!"2%982B9G&amp;T:3".97ZB:W6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#6"B=G&amp;N:82F=A!71(1!!A!,!!5+5'&amp;S97VF&gt;'6S=Q!!$E!Q`````Q62&gt;76S?1"=1(!!(A!!0R6);76S2%&amp;-)%RJ9H*B=HEO&lt;(:M;7)/2'&amp;U97*B=W5O&lt;(:M;7)92'&amp;U97*B=W5A47&amp;O97&gt;F=CZM&gt;G.M98.T!".%982B9G&amp;T:3".97ZB:W6S)'FO!&amp;1!]!!-!!-!"Q!)!!E!#!!)!!A!#!!+!!Q!$1!/!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!B!!!!#1!!!!!!%!$Q!!!!!</Property>
